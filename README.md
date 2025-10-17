@@ -4,7 +4,7 @@
 
 A front-end Spotify Web Player clone built using HTML & CSS.
 This project replicates the UI of Spotify, including a sidebar, main content area, and a music player with controls.
-###
+___
 
 ✨ Features
 
@@ -18,6 +18,8 @@ Playback controls (play, pause, forward, backward, shuffle, repeat)
 Progress bar slider
 📱 Responsive design (optimized for smaller screens)
 
+___
+
 🚀 Technologies Used
 
 HTML5
@@ -28,12 +30,17 @@ Font Awesome Icons
 
 Google Fonts (Montserrat)
 
+___
+
 
 📂 Project Structure
 spotify-clone/
 │── index.html        # Main HTML file
+
 │── spotify.css       # CSS stylesheet
-│── assets/           # Image & icon assets
+
+│── assets/           # Image & icon 
+
 │     ├── logo.png
 │     ├── backward_icon.png
 │     ├── forward_icon.png
@@ -41,7 +48,10 @@ spotify-clone/
 │     ├── card1img.jpeg ... card6img.jpeg
 │     ├── creature.jpeg
 │     └── library_icon.png
+
 │── README.md         # Documentation
+
+___
 
 
 🎯 How It Works
@@ -50,6 +60,8 @@ spotify-clone/
 .Main content displays Recently Played, Trending Now, and Featured Charts.
 .Bottom Music Player shows album art, track info, and playback controls.
 .Progress bar can be dragged to simulate song position.
+
+___
 
 📧 Author
 
