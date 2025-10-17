@@ -4,6 +4,7 @@
 
 A front-end Spotify Web Player clone built using HTML & CSS.
 This project replicates the UI of Spotify, including a sidebar, main content area, and a music player with controls.
+###
 
 ✨ Features
 
