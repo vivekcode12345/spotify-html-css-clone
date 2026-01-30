@@ -10,6 +10,29 @@ This project is for learning purposes and to practice responsive web design and 
 ![Screenshot](assets/screenshot.png)
 
 ---
+## Project Structure 📂
+
+## Project Structure 📂
+
+```text
+Spotify-CSS-Clone/
+├── index.html
+├── spotify.css
+├── assets/
+│   ├── backward_icon.png
+│   ├── card images/
+│   │   ├── card1img.jpeg
+│   │   ├── card2img.jpeg
+│   ├── player icons/
+│   │   ├── player_icon1.png
+│   │   ├── player_icon2.png
+│   ├── logo.png
+│   ├── play_musicbar.png
+│   ├── creature.jpeg
+│   ├── forward_icon.png
+│   └── library_icon.png
+└── README.md
+
 
 ## Features ✨
 
