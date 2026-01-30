@@ -7,7 +7,8 @@ This project is for learning purposes and to practice responsive web design and 
 **Live Demo:** [View Here](https://vivekcode12345.github.io/spotify-html-css-clone/)
 
 ## Screenshot 📸
-![Screenshot](assets/logo1.png)
+![Screenshot](assets/screenshot.png)
+
 ---
 
 ## Features ✨
